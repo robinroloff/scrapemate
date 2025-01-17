@@ -1,4 +1,4 @@
-module github.com/gosom/scrapemate
+module github.com/robinroloff/scrapemate
 
 go 1.23
 
